@@ -42,7 +42,7 @@
     "cheerio": "^1.0.0-rc.10",
     "iso-datestring-validator": "^2.2.0",
     "js-sha256": "^0.9.0",
-    "tough-cookie": "^4.0.0",
+    "tough-cookie": "^4.1.0",
     "axios-retry": "^3.2.4"
   },
   "devDependencies": {
